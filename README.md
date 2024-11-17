@@ -1,2 +1,2 @@
-# Igor96_Barbershop
+# Barbershop Igor96 
 Barbershop Booking Website
