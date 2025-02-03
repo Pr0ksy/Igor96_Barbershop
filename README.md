@@ -1,7 +1,7 @@
 # ✂️ Barbershop Igor96 
 🚀 Barbershop Booking Website
 
-##📌 About
+#📌 About
 Barbershop Igor96 is an easy-to-use appointment booking system designed for modern barbershops. The platform allows clients to schedule appointments effortlessly while barbers manage their bookings efficiently.
 
 ##🎯 Features
