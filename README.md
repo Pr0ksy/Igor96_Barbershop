@@ -5,11 +5,11 @@
 Barbershop Igor96 is an easy-to-use appointment booking system designed for modern barbershops. The platform allows clients to schedule appointments effortlessly while barbers manage their bookings efficiently.
 
 ##🎯 Features
-✅ Easy Online Booking – Clients can quickly book their slots.
-✅ Barber Availability Management – Barbers can manage their schedules.
-✅ User-Friendly Interface – Simple and elegant design.
-✅ Email & SMS Notifications – Clients receive appointment reminders.
-✅ Secure & Fast – Optimized for performance and security.
+- ✅ Easy Online Booking – Clients can quickly book their slots.
+- ✅ Barber Availability Management – Barbers can manage their schedules.
+- ✅ User-Friendly Interface – Simple and elegant design.
+- ✅ Email & SMS Notifications – Clients receive appointment reminders.
+- ✅ Secure & Fast – Optimized for performance and security.
 
 ##📢 Feedback
 
